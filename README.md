@@ -11,7 +11,6 @@ By analyzing historical sales trends, we identify:
 ## 🎯 Objective
 Adidas plans to launch a new **Men's Street Footwear** line priced around **$40–$45**. This project aims to:
 - Identify the most suitable **advertising and launch months**
-- Estimate **potential sales volume**
 - Provide **regional breakdowns** for demand planning
 
 ---
@@ -27,7 +26,7 @@ Adidas plans to launch a new **Men's Street Footwear** line priced around **$40�
 
 ### 1. **Data Filtering**
 - Isolated entries for *Men's Street Footwear*
-- Filtered products within a **$35–$55** price range
+- Filtered products within a **$40–$45** price range
 - Extracted and grouped **monthly sales data**
 
 ### 2. **Segmentation by Year and Month**
