@@ -72,10 +72,7 @@ Adidas plans to launch a new **Men's Street Footwear** line priced around **$40�
 ## 🚀 Outcome
 This analysis provides Adidas with a **data-backed launch playbook** by leveraging historical sales trends. The project showcases full-cycle analytics using SQL, Tableau, and business reasoning.
 
----
 
-## 📬 Contact
-Feel free to connect for feedback or discussion!
 
 
 
